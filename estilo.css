@@ -1,0 +1,13 @@
+body {
+max-width: 800px;
+margin:0 auto;
+}
+
+header{
+background-color: rgb(111, 54, 151);
+text-align:center;
+}
+
+main{
+background-color: rgb(149, 78, 170);
+}
